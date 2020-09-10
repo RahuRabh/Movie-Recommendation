@@ -10,15 +10,24 @@ Python 2.7 or Python 3.6
 Jupyter Notebook
 
 # Dependencies
-# Choose the latest versions of any of the dependencies below:
+ Choose the latest versions of any of the dependencies below:
 
 pandas
+
 numpy
+
 scipy
+
 matplotlib
+
 sklearn
+
 wordcloud
+
 searborn
+
 surprise
+
 keras
+
 h5py
