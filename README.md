@@ -1,33 +1,25 @@
-# Movie-Recommendation
-This repo shows a Jupyter Notebooks demonstrating a movie recommendation systems for the MovieLens 1M dataset. The dataset contain 1,000,209 anonymous ratings of approximately 3,900 movies made by 6,040 MovieLens users who joined MovieLens in 2000.
+# MovieLens Recommendation Systems
 
-# Here is the notebooks:
+This repo shows a set of Jupyter Notebooks demonstrating a movie recommendation systems for the [MovieLens 1M dataset](https://grouplens.org/datasets/movielens/1m/). The dataset contain 1,000,209 anonymous ratings of approximately 3,900 movies made by 6,040 MovieLens users who joined MovieLens in 2000.
 
-Content-Based and Collaborative Filtering: Using the Content-Based and Collaborative Filtering approach
 
-# Requirements
-Python 2.7 or Python 3.6
-Jupyter Notebook
+## Requirements
 
-# Dependencies
- Choose the latest versions of any of the dependencies below:
+* [Python 2.7](https://www.python.org/download/releases/2.7/) or [Python 3.6](https://www.python.org/downloads/release/python-360/)
+* [Jupyter Notebook](http://jupyter.org/)
 
-pandas
 
-numpy
+## Dependencies
 
-scipy
+Choose the latest versions of any of the dependencies below:
+* [pandas](https://pandas.pydata.org/)
+* [numpy](http://www.numpy.org/)
+* [scipy](https://www.scipy.org/)
+* [matplotlib](https://matplotlib.org/)
+* [sklearn](http://scikit-learn.org/stable/)
+* [wordcloud](https://github.com/amueller/word_cloud)
+* [searborn](https://seaborn.pydata.org/)
+* [surprise](http://surpriselib.com/)
+* [keras](https://keras.io/)
+* [h5py](https://www.h5py.org/)
 
-matplotlib
-
-sklearn
-
-wordcloud
-
-searborn
-
-surprise
-
-keras
-
-h5py
